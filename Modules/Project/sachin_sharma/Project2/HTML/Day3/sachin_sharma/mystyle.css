@@ -28,7 +28,7 @@ body{
 form{
     padding: 10px;
 }
-.name,.email,.join_date,.location,.salary,.gender,.age,.designation{
+.name,.email,.join_date,.location,.salary,.age,.designation{
     position: relative;
     left: 200px;
     top: -2px;
@@ -36,6 +36,12 @@ form{
     border-radius: 6px;
     padding: 0 22px;
     font-size: 16px;
+}
+#gender{
+    margin-left: 360px;
+    font-size: 16px;
+    color: honeydew;
+    padding: 10px;
 }
 .label{
     margin-left: 25px;
